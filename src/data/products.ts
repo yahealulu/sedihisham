@@ -9,11 +9,11 @@ export const products = [
       { name: "نباتي ١ كغ ٦ قطع", price: 14.836, pieces: 6 },
       { name: "نباتي ٢ كغ ٦ قطع", price: 29.586, pieces: 6 },
       { name: "زيت زيتون ٢٥٠غ صندوق ١٢ قطعة", price: 17.286, pieces: 12 },
-      { name: "زيت زيتون ٥٠٠غ", price: 31.736, pieces: 1 },
-      { name: "زيت زيتون ١ لتر", price: 61.486, pieces: 1 },
-      { name: "زيت زيتون ٢ ليتر", price: 59.286, pieces: 1 },
-      { name: "دوار ١ ليتر", price: 19.75, pieces: 1 },
-      { name: "دوار ٤ ليتر", price: 25.85, pieces: 1 }
+      { name: "زيت زيتون ٥٠٠غ", price: 31.736, pieces: 12 },
+      { name: "زيت زيتون ١ لتر", price: 61.486, pieces: 12 },
+      { name: "زيت زيتون ٢ ليتر", price: 59.286, pieces: 6 },
+      { name: "دوار ١ ليتر", price: 19.75, pieces: 12 },
+      { name: "دوار ٤ ليتر", price: 25.85, pieces: 4 }
     ]
   },
   {
@@ -31,7 +31,7 @@ export const products = [
   {
     category: "Tea",
     items: [
-      { name: "شاي ٥ك هشام", price: 45.15, pieces: 1 },
+      { name: "شاي ٥ك هشام", price: 45.15, pieces: 5 },
       { name: "شاي ٩٠غ طرد ١٠٠ قطعة", price: 92.25, pieces: 100 },
       { name: "شاي ١٠٠ ظرف طرد ١٨ قطعة", price: 50.25, pieces: 18 },
       { name: "شاي ٢٥ ظرف طرد ٤٨ قطعة", price: 35.15, pieces: 48 },
@@ -61,7 +61,7 @@ export const products = [
       { name: "كشك ٥٠٠غ ٦ قطع", price: 8.643, pieces: 6 },
       { name: "سكر طرد", price: 7.214, pieces: 10 },
       { name: "زعتر ٤٠٠غ طرد ١٢ عبوة", price: 11.793, pieces: 12 },
-      { name: "زعتر فلسطيني ٤٠٠غ", price: 7.693, pieces: 1 },
+      { name: "زعتر فلسطيني ٤٠٠غ", price: 7.693, pieces: 6 },
       { name: "زعتر بيتي ١٠ك", price: 22.571, pieces: 10 },
       { name: "بندورة ٦٦٠غ ١٢ قطعة", price: 13.286, pieces: 12 },
       { name: "بندورة ٣٧٥غ ١٢ قطعة", price: 8.536, pieces: 12 }
